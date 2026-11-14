@@ -10,6 +10,20 @@ release automatically, and then opens the tracker. No GitHub sign-in is needed.
 The initial download needs internet access; existing installations can open
 their installed application if update checks fail.
 
+## Which ZIP should I download?
+
+| File | Who it is for | What to do |
+| --- | --- | --- |
+| **GMOD-Sits-Tracker-Setup.zip** | New installations | Download this ZIP, extract it into a dedicated folder, then open **GMOD Sits Tracker.exe**. The launcher downloads the latest application automatically. |
+| **GMOD-Sits-Tracker-2.0.1.zip** | The automatic updater | This is the versioned application package. Your installed launcher downloads and installs it for you. You do not need to download or extract it manually. |
+
+**Already have the tracker installed?** Close it and reopen your usual **GMOD Sits Tracker.exe**.
+It checks for updates automatically and preserves your records, evidence, settings and backups.
+The number in the versioned ZIP's filename changes with each release.
+
+GitHub's additional **Source code** ZIP/TAR downloads contain this public repository's
+documentation, not the application or its private source. Use **Setup.zip** to install the app.
+
 Records, evidence, drafts, settings and backups are stored in your installation's
 `data` folder. Updates install separately in `.updates` and preserve that folder.
 Keep an independent backup. Do not run the app directly inside its downloaded ZIP.
