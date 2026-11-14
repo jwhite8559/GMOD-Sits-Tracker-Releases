@@ -1,0 +1,28 @@
+GMOD Sits Tracker — Proprietary End-User License
+Copyright (c) 2026 Orion8559. All rights reserved in original project materials.
+
+Permission is granted to download, install and run unmodified official releases
+of GMOD Sits Tracker, including receiving official automatic updates, for your
+own use. You may make a reasonable backup copy for that use and share links to
+the official download page.
+
+Except as required by applicable law, GitHub's Terms of Service, or a third-party
+license, no permission is granted to modify, redistribute, mirror, sublicense,
+sell, rebrand, publish derivative versions of, or incorporate the original
+application code or branding into another product without prior written
+permission from Orion8559. Public availability is not an open-source license.
+No rights to the Orion8559 name, avatar, or project branding are granted beyond
+their display as part of an unmodified official application.
+
+These restrictions apply only to original project materials to the extent rights
+are held by the publisher. Third-party components retain their own licenses;
+those licenses prevail for those components. Nothing here restricts rights under
+the LGPL, including replacing or relinking covered libraries and reverse
+engineering necessary to debug modifications to those libraries, or other rights
+that applicable law does not permit to be restricted.
+
+The software is provided "AS IS", without warranty of any kind, to the extent
+permitted by law. The publisher is not liable for damages arising from its use
+to the extent permitted by law. Keep independent backups of important records.
+
+Official releases: https://github.com/jwhite8559/GMOD-Sits-Tracker-Releases
